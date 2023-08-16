@@ -1,0 +1,36 @@
+div{
+		height: 500px;
+		width: 900px;
+		background-color: lightgrey;
+		border:1px solid black;
+	}
+.a{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	border-radius: 20px;
+	float: left;
+	margin: 70px 50px;
+}
+.b{
+    height: 300px;
+    width: 200px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 70px 40px;
+	float: left;	
+}
+.c{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 70px 40px;
+	float: left;
+}
+button{
+	font-size: 20px;
+	background-color: blue;
+	color: white;
+	border-radius: 20px;
+}

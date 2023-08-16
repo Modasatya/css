@@ -1,0 +1,18 @@
+/*body{
+	background-image: url('../images/images (4).jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.abc{
+	font-family: italic;
+	font-size: 60px;
+	color: white;
+}*/
+
+.circle {
+    border: 2px solid lightpink;
+    background-color:yellow;
+    height: 50px;
+    border-radius:50%;
+    width: 50px;
+}
